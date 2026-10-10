@@ -1,43 +1,52 @@
-<div align="center">
-  <h1>Hi there, I'm Samu3k 👋</h1>
-  <p><strong>Tech Enthusiast | Hardware Prototyping & Cybersecurity Passionate</strong></p>
-</div>
-
----
-
-### 💫 About Me
-Dalla programmazione software all'hardware hacking, mi piace esplorare come funzionano le cose sotto il cofano. Ho una forte passione per lo sviluppo di utility, il network auditing e la creazione di progetti fai-da-te nel mondo IoT.
-
-- 🛠️ Al momento sto lavorando su progetti di prototipazione hardware con **Arduino** ed **ESP32**.
-- 🛡️ Mi interessano la **Cybersecurity**, l'**OSINT** e il network assessment.
-- ⚙️ Adoro automatizzare processi e sviluppare bot di utilità.
-- ⚡ Fun fact: Se c'è un firmware da modificare o un circuito da saldare, sono in prima fila.
-
----
-
-### 🛠️ Languages and Tools
+# Hi, I'm Samuele (Samu3K) 
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  
-  <!-- Tools & Environment -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <em>Computer Science Student & Systems / Embedded Developer</em>
 </p>
 
 ---
 
-### 📊 Stats & Trophies
+## 💻 Profile Overview
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=samu3k&theme=onedark&column=7" alt="samu3k trophies" width="100%" />
-  </a>
+Appassionato di informatica a 360 gradi, con un focus particolare sull'amministrazione di sistemi Linux, la containerizzazione e la prototipazione hardware. Mi occupo di progettare soluzioni software e infrastrutture self-hosted, unendo lo sviluppo di utility backend al mondo dell'IoT e del networking.
+
+* **Sistemi & Homelab:** Gestione di server Linux dedicati, orchestrazione di container tramite Docker/CasaOS e configurazione di reti protette.
+* **Embedded & IoT:** Progettazione di firmware e interfacce hardware con ESP32, M5Stack e microcontrollori, integrando sensori e automazioni.
+* **Software Development:** Sviluppo di script di automazione, bot di utilità e applicazioni in Python, C# e JavaScript.
+* **Networking & Security:** Studio dei protocolli di rete, auditing wireless ehardening dei sistemi operativi.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🌐 Linguaggi & Scripting
+<p>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23FDF03A" />
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" />
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=samu3k&label=Profile%20views&color=0e75b6&style=flat-square" alt="samu3k profile views" />
+### 🐧 Infrastruttura & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
+</p>
+
+### ⚡ Hardware & Smart Home
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samu3K&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samu3K&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
