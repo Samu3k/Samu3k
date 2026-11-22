@@ -8,12 +8,12 @@
 
 ## 💻 Profile Overview
 
-Appassionato di informatica a 360 gradi, con un focus particolare sull'amministrazione di sistemi Linux, la containerizzazione e la prototipazione hardware. Mi occupo di progettare soluzioni software e infrastrutture self-hosted, unendo lo sviluppo di utility backend al mondo dell'IoT e del networking.
+All-around computer enthusiast with a strong focus on Linux system administration, containerization, and hardware prototyping. I design self-hosted infrastructures and software solutions, bridging backend utilities with IoT and networking.
 
-* **Sistemi & Homelab:** Gestione di server Linux dedicati, orchestrazione di container tramite Docker/CasaOS e configurazione di reti protette.
-* **Embedded & IoT:** Progettazione di firmware e interfacce hardware con ESP32, M5Stack e microcontrollori, integrando sensori e automazioni.
-* **Software Development:** Sviluppo di script di automazione, bot di utilità e applicazioni in Python, C# e JavaScript.
-* **Networking & Security:** Studio dei protocolli di rete, auditing wireless ehardening dei sistemi operativi.
+* **Systems & Homelab:** Managing dedicated Linux servers, orchestrating containers with Docker/CasaOS, and setting up secure networks.
+* **Embedded & IoT:** Building firmware and hardware interfaces using ESP32, M5Stack, and microcontrollers, integrating sensors and automations.
+* **Software Development:** Creating automation scripts, utility bots, and applications in Python, C#, and JavaScript.
+* **Networking & Security:** Exploring network protocols, wireless auditing, and OS hardening.
 
 ---
 
